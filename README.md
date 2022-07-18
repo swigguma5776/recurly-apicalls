@@ -1,5 +1,5 @@
 # recurly-apicalls
-Building a simple flask framework with 3 API endpoints integrating the Recurly library. 
+Building a simple flask framework that fetches user information from the Recurly API endpoints integrating the Recurly library 
 
 
 GET STARTED HERE:
@@ -29,6 +29,10 @@ Activate Python virtual env AND set Flask ENV variables in terminal/CMD:
 Install dependencies:
 
     pip install -r requirements.txt
+    
+    or
+    
+    pip3 install -r requirements.txt
 
 Start dev server:
 
